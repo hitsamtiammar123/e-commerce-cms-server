@@ -3,10 +3,10 @@ const fs=require('fs');
 
 class ProductController{
     static async create(req,res){
-        let {name,price,stock}=req.body;
+        let body=req.body;
 
         try{
-            let product=await Product.create({name,price,stock});
+            let product=await Product.create(body);
             Product.uploadFromReqIfExists(req.files,product);
             res.status(201).json({status:'Product has created',product});
 
