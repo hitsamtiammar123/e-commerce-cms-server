@@ -48,7 +48,7 @@ class ProductController{
 
         try{
             let product=await Product.findByPk(id);
-            let imgName='../client/public/img/'+product.image_url;
+            let imgName='./public/img/'+product.image_url;
             if(fs.existsSync(imgName))
                 fs.unlinkSync(imgName);
             
