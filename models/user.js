@@ -2,6 +2,7 @@
 module.exports = (sequelize, DataTypes) => {
 
   const Model=sequelize.Sequelize.Model;
+  const md5=require('md5');
 
   class User extends Model{
     get tokendata(){
@@ -25,5 +26,10 @@ module.exports = (sequelize, DataTypes) => {
   User.associate = function(models) {
     // associations can be defined here
   };
+
+  User.beforeCreate((instance,options)=>{
+    instance.password=md5(instance.password);
+  })
+
   return User;
 };
