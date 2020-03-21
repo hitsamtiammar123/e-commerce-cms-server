@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "jest --detectOpenHandles",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "start":"node index"
   },
   "repository": {
     "type": "git",
