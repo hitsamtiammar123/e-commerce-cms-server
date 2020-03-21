@@ -16,14 +16,14 @@ module.exports = (sequelize, DataTypes) => {
 
     uploadImage(image){
       let env=process.env.NODE_ENV || 'development'
-      if(env==='development'){
+      //if(env==='development'){
         let id=this.id;
         let ext=path.extname(image.name);
         let imageName=id+ext;
-        image.mv('../client/public/img/'+imageName);
+        image.mv('./public/img/'+imageName);
         this.set('image_url',imageName);
         this.save();
-      }
+      //}
     }
   }
 
