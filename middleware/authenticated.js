@@ -9,9 +9,9 @@ module.exports=(req,res,next)=>{
 
     try {
         let decoded = jwt.verify(token, process.env.JWT_SECRET);
-        res.user=decoded;
+        req.user=decoded;
         next();
       } catch(err) {
-        res.status(500).json({message:'Error on authenticating',err});
+        res.status(400).json({message:'Error on authenticating',err});
     }
 }
