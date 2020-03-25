@@ -10,7 +10,8 @@ module.exports = (sequelize, DataTypes) => {
         id:this.id,
         username:this.username,
         email:this.email,
-        name:this.name
+        name:this.name,
+        role:this.role
       }
     }
   }
