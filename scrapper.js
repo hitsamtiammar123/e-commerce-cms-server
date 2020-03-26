@@ -11,11 +11,11 @@ function getDescription(d){
 
 async function startScrap(){
     try{
-        let url='https://api.nike.com/cic/browse/v1?queryid=products&anonymousId=C5F26689B209BC15034D7F00E9D08BE1&endpoint=%2Fproduct_feed%2Frollup_threads%2Fv2%3Ffilter%3Dmarketplace(ID)%26filter%3Dlanguage(en-GB)%26filter%3DemployeePrice(true)%26filter%3DattributeIds(0f64ecc7-d624-4e91-b171-b83a03dd8550%2C16633190-45e5-4830-a068-232ac7aea82c)%26anchor%3D48%26consumerChannelId%3Dd9a5bc42-4b9c-4976-858a-f159cf99c647%26count%3D60';
+        let url='https://api.nike.com/product_feed/rollup_threads/v2?filter=marketplace%28ID%29&filter=language%28en-GB%29&filter=employeePrice%28true%29&filter=attributeIds%287817e756-7721-4cfb-b404-04df79c685e4%2C16633190-45e5-4830-a068-232ac7aea82c%2C7baf216c-acc6-4452-9e07-39c2ca77ba32%29&anchor=0&consumerChannelId=d9a5bc42-4b9c-4976-858a-f159cf99c647&count=60';
         let {data}=await axios.get(url)
         let dataObj=data
         let result=[];
-        let rawObjects=dataObj.data.products.objects
+        let rawObjects=dataObj.objects
         let categories=['lifestyle','gym','basketball','soccer']
 
         for(let i=0;i<rawObjects.length;i++){
