@@ -6,7 +6,6 @@ class ProductController{
         let body=req.body;
 
         try{
-            body.isScrapped=false
             let product=await Product.create(body);
             Product.uploadFromReqIfExists(req.files,product);
             res.status(201).json({status:'Product has created',product});
@@ -32,7 +31,6 @@ class ProductController{
     static async update(req,res){
         let id=req.params.id;
         let body=req.body;
-        body.isScrapped=false
 
         try{
             let product=await Product.findByPk(id);

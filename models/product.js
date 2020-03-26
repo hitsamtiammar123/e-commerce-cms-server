@@ -7,7 +7,7 @@ module.exports = (sequelize, DataTypes) => {
   class Product extends Model{
     static uploadFromReqIfExists(files,product){
 
-      if(files && files.image ){
+      if(files && files.image && !product.isScrapped ){
         let image=files.image;
         product.uploadImage(image);
       }
