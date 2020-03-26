@@ -1,227 +1,542 @@
 [
   {
-    "name": "Nike Air Zoom SuperRep",
-    "price": 1799000,
-    "stock": 6,
-    "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/i1-62df8949-9371-4747-939d-698e086df90e/air-zoom-superrep-hiit-class-shoe-75dz0X.jpg",
-    "isScrapped": true,
-    "description": "Washed Coral/Magic Ember/Fire Pink"
-  },
-  {
-    "name": "Nike Metcon 5",
-    "price": 1979000,
-    "stock": 3,
-    "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/mocsc9bogntgsrzejgt7/metcon-5-training-shoe-H1rNmq.jpg",
-    "isScrapped": true,
-    "description": "Black/White/University Red/Metallic Gold"
-  },
-  {
-    "name": "Nike In-Season TR 9",
-    "price": 999000,
-    "stock": 21,
-    "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/77e497be-d6ef-4ef4-83c0-17bf0004a1be/in-season-tr-9-training-shoe-FRcxW9.jpg",
-    "isScrapped": true,
-    "description": "Platinum Tint/Mint Foam/Sky Grey/Black"
-  },
-  {
-    "name": "Nike Metcon 5 AMP",
-    "price": 2099000,
-    "stock": 29,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/i1-5a83fc3e-759d-4dc1-9476-b05daa8a05af/metcon-5-amp-training-shoe-bKGvzX.jpg",
-    "isScrapped": true,
-    "description": "Black/Laser Crimson/Oracle Aqua/Black"
-  },
-  {
-    "name": "Nike Free Metcon 3",
-    "price": 1799000,
+    "name": "Nike Air Force 1 React",
+    "price": 1429000,
     "stock": 4,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/7ad2ff20-c1a5-4927-a4c8-8601e628abc3/free-metcon-3-training-shoe-NMfJ2J.jpg",
-    "isScrapped": true,
-    "description": "Pale Ivory/Vast Grey/Psychic Blue/Team Orange"
-  },
-  {
-    "name": "Nike Air Max Bella TR 2",
-    "price": 1199000,
-    "stock": 17,
-    "category": "gym",
-    "image_url": "https://static.nike.com/a/images/t_default/14379f02-1227-41f1-8262-6d633c7aa736/air-max-bella-tr-2-training-shoe-CsQSbG.jpg",
-    "isScrapped": true,
-    "description": "Black/Iced Lilac/Pistachio Frost/Noble Red"
-  },
-  {
-    "name": "Nike Metcon 5",
-    "price": 1979000,
-    "stock": 0,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/0820cac6-bda0-44d1-9633-2fc83aa9a394/metcon-5-training-shoe-88qprd.jpg",
-    "isScrapped": true,
-    "description": "Black/White/Gum Medium Brown/Black"
-  },
-  {
-    "name": "Nike Flex TR 9",
-    "price": 899000,
-    "stock": 28,
-    "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/f3e75927-1b76-431d-884e-10a23ffa9a39/flex-tr-9-training-shoe-ZR1B84.jpg",
-    "isScrapped": true,
-    "description": "Black/Iced Lilac/White/Pistachio Frost"
-  },
-  {
-    "name": "Nike Metcon 5 AMP",
-    "price": 2099000,
-    "stock": 28,
     "category": "soccer",
-    "image_url": "https://static.nike.com/a/images/t_default/9e637677-5f14-4f3d-9cd1-3315d24d87a8/metcon-5-amp-training-shoe-sH3HZL.jpg",
+    "image_url": "https://static.nike.com/a/images/t_default/28e9e2bb-7336-45e4-82ec-2e4930add272/air-force-1-react-older-shoe-4dbsZF.jpg",
     "isScrapped": true,
-    "description": "Black/Green Strike/Blue Fury/Fire Pink"
+    "description": "Black/Violet Star/Barely Volt/Anthracite"
   },
   {
-    "name": "Nike Metcon 5 By You",
-    "price": 2279000,
-    "stock": 25,
-    "category": "gym",
-    "image_url": "https://static.nike.com/a/images/t_default/salis6eyc5s6wjme1dh4/custom-nike-metcon-5-by-you.jpg",
-    "isScrapped": true,
-    "description": "Multi-Colour/Multi-Colour/Multi-Colour"
-  },
-  {
-    "name": "Nike Free TR Ultra",
-    "price": 1138000,
-    "stock": 3,
-    "category": "lifestyle",
-    "image_url": "https://c.static-nike.com/a/images/t_default/vsncq5lpcmrmksskycol/free-tr-ultra-training-shoe-p9bFlq.jpg",
-    "isScrapped": true,
-    "description": "Black/Anthracite/White"
-  },
-  {
-    "name": "Nike Foundation Elite TR",
-    "price": 958000,
-    "stock": 23,
-    "category": "soccer",
-    "image_url": "https://static.nike.com/a/images/t_default/loknxh5tsnoyo0fwqvzd/foundation-elite-tr-training-shoe-TFVwHJ.jpg",
-    "isScrapped": true,
-    "description": "Laser Fuchsia/Black/Melon Tint"
-  },
-  {
-    "name": "Nike Flex Trainer 8 AMP",
-    "price": 798000,
-    "stock": 28,
-    "category": "gym",
-    "image_url": "https://c.static-nike.com/a/images/t_default/aqidqlslrszss5xplng1/flex-trainer-8-amp-training-shoe-zc9dcw.jpg",
-    "isScrapped": true,
-    "description": "Plum Dust/Pink Foam/Bordeaux/Met Element Gold"
-  },
-  {
-    "name": "Nike Metcon 4 XD Patch",
-    "price": 2099000,
-    "stock": 10,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/n79sxlffl9ymlpsytdkl/metcon-4-xd-patch-training-shoe-jVSmDk.jpg",
-    "isScrapped": true,
-    "description": "Black/Black/Black"
-  },
-  {
-    "name": "Nike React Metcon",
-    "price": 2279000,
-    "stock": 1,
-    "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/61e07fa3-e364-41e2-a3fd-896dcc4dbdb7/react-metcon-training-shoe-gLnbhP.jpg",
-    "isScrapped": true,
-    "description": "White/Atmosphere Grey/Black"
-  },
-  {
-    "name": "Nike Air Max Bella TR 3",
+    "name": "Nike Air Force 1 LV8",
     "price": 1099000,
     "stock": 13,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/2745e7fe-7de3-49d9-90b2-320210b1b9d9/air-max-bella-tr-3-training-shoe-m0V5Bw.jpg",
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/45809d1b-c126-41f4-990d-c3d6b1caaef6/air-force-1-lv8-older-shoe-ZnqVPD.jpg",
     "isScrapped": true,
-    "description": "Cosmic Fuchsia/Pistachio Frost/Team Orange/Black"
+    "description": "Black/Pink/Barely Volt/Black"
   },
   {
-    "name": "Nike React Metcon AMP",
-    "price": 2389000,
-    "stock": 6,
+    "name": "Nike Air Max 90 NS SE",
+    "price": 1429000,
+    "stock": 12,
     "category": "gym",
-    "image_url": "https://static.nike.com/a/images/t_default/216a5015-2db1-4c72-8b42-f57a467c0245/react-metcon-amp-training-shoe-SqvrVS.jpg",
+    "image_url": "https://static.nike.com/a/images/t_default/21022d1d-86f3-4204-86e9-27519df62ef3/air-max-90-se-older-shoe-BPxs9Z.jpg",
     "isScrapped": true,
-    "description": "Black/Fire Pink/Green Strike/Blue Fury"
+    "description": "Black/Blue Fury/Barely Volt/Black"
   },
   {
-    "name": "Nike Free X Metcon 2",
-    "price": 1799000,
+    "name": "Nike Air Max Axis",
+    "price": 798000,
+    "stock": 2,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/mout5drnwbihdraqqjf0/air-max-axis-older-shoe-n4g5J6.jpg",
+    "isScrapped": true,
+    "description": "Black/Gunsmoke/Volt/Volt"
+  },
+  {
+    "name": "Nike Air Max 90 LTR",
+    "price": 1299000,
+    "stock": 14,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/38159b6a-202d-4f58-8dca-fac9fa2faaab/air-max-90-ltr-older-shoe-9xnt2B.jpg",
+    "isScrapped": true,
+    "description": "White/Metallic Silver/White/White"
+  },
+  {
+    "name": "Nike Air Max 270 Extreme",
+    "price": 1699000,
+    "stock": 13,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/pzngtvwbnme64a6sav9c/air-max-270-extreme-older-shoe-RC0bDl.jpg",
+    "isScrapped": true,
+    "description": "Black/White"
+  },
+  {
+    "name": "Nike Air Max 200",
+    "price": 1098000,
+    "stock": 1,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/pb7iytnewvbwlmlqw3ui/air-max-200-older-shoe-8tbjDM.jpg",
+    "isScrapped": true,
+    "description": "Black/Thunder Grey/Aurora/Metallic Silver"
+  },
+  {
+    "name": "Nike Air Max 97",
+    "price": 1999000,
+    "stock": 8,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/gg8upxj5gt8lspkfp9be/air-max-97-older-shoe-M2vYej.jpg",
+    "isScrapped": true,
+    "description": "Iced Lilac/Photon Dust/White/Black"
+  },
+  {
+    "name": "Freak 1",
+    "price": 1038000,
+    "stock": 25,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/cbeulvo5d2gdr8skzoqg/freak-1-older-shoe-lDc71n.jpg",
+    "isScrapped": true,
+    "description": "Black/Photo Blue/Multi-Colour"
+  },
+  {
+    "name": "Kyrie 6",
+    "price": 1429000,
+    "stock": 1,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/070cffdd-6a7e-40d7-a7eb-f4ca04c391ef/kyrie-6-older-basketball-shoe-K9GW3v.jpg",
+    "isScrapped": true,
+    "description": "Black/University Red/White/Black"
+  },
+  {
+    "name": "Kyrie Flytrap 3",
+    "price": 949000,
+    "stock": 1,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/9be7dd2d-4850-43f9-b65e-25c5c0ec56c8/kyrie-flytrap-3-older-basketball-shoe-Sckj9R.jpg",
+    "isScrapped": true,
+    "description": "White/Varsity Royal"
+  },
+  {
+    "name": "Kyrie Flytrap II",
+    "price": 758000,
+    "stock": 16,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/nxefzwjfsfv6bpzu1f7i/kyrie-flytrap-ii-older-basketball-shoe-xszd77.jpg",
+    "isScrapped": true,
+    "description": "Atmosphere Grey/Thunder Grey/Bright Violet/Bright Crimson"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 36",
+    "price": 1179000,
+    "stock": 12,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/bysxsja4biba7h1rzu6x/air-zoom-pegasus-36-younger-older-running-shoe-KfXD5N.jpg",
+    "isScrapped": true,
+    "description": "Racer Blue/White/Black"
+  },
+  {
+    "name": "Nike Cortez Basic SL",
+    "price": 799000,
+    "stock": 9,
+    "category": "soccer",
+    "image_url": "https://c.static-nike.com/a/images/t_default/n4t4zhpvsdgwvabck8cf/cortez-basic-sl-older-shoe-8kwrrB.jpg",
+    "isScrapped": true,
+    "description": "White/Black"
+  },
+  {
+    "name": "Nike Star Runner 2",
+    "price": 729000,
+    "stock": 13,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/vk4788bryqqq2gbasspm/star-runner-2-older-running-shoe-B3cVR3.jpg",
+    "isScrapped": true,
+    "description": "Black/Black/Volt/White"
+  },
+  {
+    "name": "LeBron 17",
+    "price": 2129000,
+    "stock": 22,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/093e447f-8a7d-4601-8441-bea5b88dec86/lebron-17-older-basketball-shoe-znGKBL.jpg",
+    "isScrapped": true,
+    "description": "Black/University Red/White"
+  },
+  {
+    "name": "Nike Air Max 720",
+    "price": 2129000,
+    "stock": 16,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/4ad6c449-d95b-473e-9524-b0d7ded582cb/air-max-720-younger-older-shoe-xwFcQ8.jpg",
+    "isScrapped": true,
+    "description": "Anthracite/Smoke Grey/Electric Green"
+  },
+  {
+    "name": "Nike Drop-Type PRM",
+    "price": 949000,
+    "stock": 22,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/d5bt7cn881x2ucfkqsp9/drop-type-prm-older-shoe-BQnqtW.jpg",
+    "isScrapped": true,
+    "description": "White/Black"
+  },
+  {
+    "name": "Nike Drop-Type PRM",
+    "price": 758000,
+    "stock": 23,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/ckcfvqwnyqsjipafe45p/drop-type-prm-older-shoe-Tp02rg.jpg",
+    "isScrapped": true,
+    "description": "Deep Royal Blue/White/Black/Black"
+  },
+  {
+    "name": "Nike Joyride Nova",
+    "price": 1278000,
+    "stock": 12,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/gfhyeexthitz7o1kgydh/joyride-nova-younger-older-shoe-lqRXBm.jpg",
+    "isScrapped": true,
+    "description": "Black/Aurora/Metallic Dark Grey/Barely Volt"
+  },
+  {
+    "name": "Nike Star Runner 2 HZ",
+    "price": 638000,
+    "stock": 2,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/vsitda90ejpp1z6abkac/star-runner-2-hz-older-running-shoe-VkQgcM.jpg",
+    "isScrapped": true,
+    "description": "Black/Gunsmoke/Reflect Silver"
+  },
+  {
+    "name": "Nike Flex Runner Rebel",
+    "price": 729000,
+    "stock": 29,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/ue3ptvedyr1gafvnyhxw/flex-runner-rebel-older-running-shoe-bKr1PX.jpg",
+    "isScrapped": true,
+    "description": "Black/Anthracite/Light Aqua/Black"
+  },
+  {
+    "name": "Nike Air Max 90 Leather",
+    "price": 1179000,
+    "stock": 29,
+    "category": "gym",
+    "image_url": "https://c.static-nike.com/a/images/t_default/k5ltifzphxft7lwqxnlu/air-max-90-leather-older-shoe-1qTbNNAj.jpg",
+    "isScrapped": true,
+    "description": "White/White"
+  },
+  {
+    "name": "Nike Air Max 270 React",
+    "price": 1098000,
+    "stock": 6,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/p8qcl9o2nuca66e3xtjb/air-max-270-react-older-shoe-k6r2fk.jpg",
+    "isScrapped": true,
+    "description": "Gunsmoke/Aurora/Hyper Violet/Reflect Silver"
+  },
+  {
+    "name": "Nike Sunray Adjust 5",
+    "price": 469000,
+    "stock": 17,
+    "category": "lifestyle",
+    "image_url": "https://c.static-nike.com/a/images/t_default/wmhakkusfjaidwjt9q8p/sunray-adjust-5-younger-older-sandal-WW6hXN.jpg",
+    "isScrapped": true,
+    "description": "Black/White"
+  },
+  {
+    "name": "Nike Kawa",
+    "price": 349000,
     "stock": 14,
     "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/f50d9db8-2341-4e5e-acec-fd2d17c61cea/free-metcon-2-training-shoe-gngMqh.jpg",
+    "image_url": "https://static.nike.com/a/images/t_default/835b0836-a95e-45d0-a081-60271bb53ae0/kawa-younger-older-slide-yATYZXRb.jpg",
     "isScrapped": true,
-    "description": "White/Iced Lilac/Black/Noble Red"
+    "description": "Iced Lilac/Particle Grey/White"
   },
   {
-    "name": "Nike React Metcon AMP",
-    "price": 2389000,
-    "stock": 22,
-    "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/62cc589b-d5f5-4f02-97de-890579e9532f/react-metcon-amp-training-shoe-4HLTpW.jpg",
-    "isScrapped": true,
-    "description": "Black/Fire Pink/Green Strike/Blue Fury"
-  },
-  {
-    "name": "Nike React Metcon",
-    "price": 2279000,
-    "stock": 3,
+    "name": "Nike Phantom Vision Academy Jr. MG By You",
+    "price": 1279000,
+    "stock": 2,
     "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/a804a05c-615b-49c7-b1ae-8f24781a21eb/react-metcon-training-shoe-bRkJ3L.jpg",
+    "image_url": "https://c.static-nike.com/a/images/t_default/uqvq7wpszxfyfqzvmdey/phantom-vision-academy-jr-id.jpg",
     "isScrapped": true,
-    "description": "White/Atmosphere Grey/Black"
+    "description": "Multi-Colour/Multi-Colour"
   },
   {
-    "name": "Nike SuperRep Go",
-    "price": 1429000,
-    "stock": 10,
+    "name": "Nike Jr. Mercurial Vapor 13 Academy MG",
+    "price": 718000,
+    "stock": 11,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/irbniu8wgoyimpb7qert/jr-mercurial-vapor-13-academy-mg-multi-ground-football-boot-t0MXdf.jpg",
+    "isScrapped": true,
+    "description": "Blue Hero/Obsidian/White"
+  },
+  {
+    "name": "Nike Team Hustle Quick",
+    "price": 729000,
+    "stock": 0,
+    "category": "soccer",
+    "image_url": "https://c.static-nike.com/a/images/t_default/gr2j7opdde8wrf29kyct/team-hustle-quick-older-basketball-shoe-4GMnJs.jpg",
+    "isScrapped": true,
+    "description": "Black/White"
+  },
+  {
+    "name": "Nike Jr. Phantom Vision Academy Dynamic Fit MG",
+    "price": 758000,
+    "stock": 15,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/olhotnx87fvpqhphsew2/jr-phantom-vision-academy-dynamic-fit-mg-younger-older-multi-ground-football-boot-NDq1vn.jpg",
+    "isScrapped": true,
+    "description": "Dark Grey/Black/Bright Mango"
+  },
+  {
+    "name": "Nike Jr. Tiempo Legend 8 Club MG",
+    "price": 579000,
+    "stock": 24,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/ktigxa8g3mjftilhi0zx/jr-tiempo-legend-8-club-mg-older-multi-ground-football-boot-1gb5V8.jpg",
+    "isScrapped": true,
+    "description": "Black/Blue Hero"
+  },
+  {
+    "name": "Nike Jr. Phantom Venom Academy FG",
+    "price": 718000,
+    "stock": 21,
     "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/e4d778ba-dec0-47e2-b373-3557d3a3fd2c/superrep-go-training-shoe-WLsRRm.jpg",
+    "image_url": "https://static.nike.com/a/images/t_default/jp6f1mh23nqigxcf0kjo/jr-phantom-venom-academy-fg-older-football-boot-BQmnHJ.jpg",
     "isScrapped": true,
-    "description": "White/Black"
+    "description": "Bright Mango/Orange Pulse/Anthracite/White"
   },
   {
-    "name": "Nike SFB Gen 2 20cm (approx.)",
-    "price": 2389000,
-    "stock": 18,
+    "name": "Air Jordan 1 low SE",
+    "price": 1099000,
+    "stock": 2,
     "category": "gym",
-    "image_url": "https://c.static-nike.com/a/images/t_default/gmrbikj4bwmsuq6c2zde/sfb-gen-2-20cm-tactical-boot-QpCknd.jpg",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-ee204c83-e638-443f-aaee-a32c1d722c27/air-jordan-1-low-se-older-shoe-RQsFZg.jpg",
     "isScrapped": true,
-    "description": "Black/Black/Black"
+    "description": "Black/Cyber/White/Black"
   },
   {
-    "name": "Nike Free TR 9 Metallic",
-    "price": 1318000,
-    "stock": 29,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/kqrmsayz517hp48g77j2/free-tr-9-metallic-training-shoe-wzPRBh.jpg",
-    "isScrapped": true,
-    "description": "Sail/Guava Ice/Metallic Red Bronze/Atmosphere Grey"
-  },
-  {
-    "name": "Nike Metcon 5 AMP",
-    "price": 1578000,
-    "stock": 23,
-    "category": "lifestyle",
-    "image_url": "https://static.nike.com/a/images/t_default/h7n5rcnuq8tdiemztqef/metcon-5-amp-training-shoe-Zh8lkD.jpg",
-    "isScrapped": true,
-    "description": "White/Black"
-  },
-  {
-    "name": "Nike Metcon 5 AMP",
-    "price": 2099000,
+    "name": "Nike Huarache E.D.G.E. TXT",
+    "price": 878000,
     "stock": 24,
     "category": "basketball",
-    "image_url": "https://static.nike.com/a/images/t_default/7440e408-d875-4ae4-b939-5a4f325cf1ae/metcon-5-amp-training-shoe-ztSsd7.jpg",
+    "image_url": "https://static.nike.com/a/images/t_default/iezw5bkcnwb3oawogd3t/huarache-edge-txt-older-shoe-D28JjL.jpg",
     "isScrapped": true,
-    "description": "White/Black/University Red"
+    "description": "Hyper Royal/Geode Teal/Team Orange/White"
+  },
+  {
+    "name": "Nike Air Max 97 DTN",
+    "price": 2129000,
+    "stock": 11,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/7f55c1df-bd92-4b0b-b3f3-7e1addacb8b0/air-max-97-dtn-older-shoe-bGSmp9.jpg",
+    "isScrapped": true,
+    "description": "Metallic Silver/White/Black/Laser Orange"
+  },
+  {
+    "name": "Jordan Mars 270",
+    "price": 1699000,
+    "stock": 20,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/p1gk2r1m8qhjgmpiurmb/jordan-mars-270-older-shoe-nCsg7m.jpg",
+    "isScrapped": true,
+    "description": "Black/Starfish/Sail/Reflect Silver"
+  },
+  {
+    "name": "Nike Air VaporMax Flyknit 3",
+    "price": 1908000,
+    "stock": 5,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/vih6mgz6y0sci5fshrz6/air-vapormax-flyknit-3-older-shoe-mWbxp9.jpg",
+    "isScrapped": true,
+    "description": "White/Hyper Turquoise/Black/Flash Crimson"
+  },
+  {
+    "name": "Nike Jr. Mercurial Vapor 13 Club Neymar Jr. MG",
+    "price": 558000,
+    "stock": 24,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/xgw3w1yomsk3qhazmprv/jr-mercurial-vapor-13-club-neymar-jr-mg-younger-older-multi-ground-football-boot-DP6hRK.jpg",
+    "isScrapped": true,
+    "description": "Chrome/Red Orbit/Platinum Tint/Black"
+  },
+  {
+    "name": "Nike Air Max 200",
+    "price": 1429000,
+    "stock": 20,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-9b27191d-efc9-45a0-b752-c7da0a9f6ac4/air-max-200-older-shoe-KscS2x.jpg",
+    "isScrapped": true,
+    "description": "Dark Smoke Grey/Black/White/White"
+  },
+  {
+    "name": "Nike Epic React Flyknit 2",
+    "price": 1258000,
+    "stock": 5,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/zrgvxxusdef4anyyuw1g/epic-react-flyknit-2-older-running-shoe-2SJl4J.jpg",
+    "isScrapped": true,
+    "description": "Black/Pink Blast/Vivid Purple/White"
+  },
+  {
+    "name": "Nike Air VaporMax 2019",
+    "price": 2389000,
+    "stock": 16,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-f6dacd4b-598b-4eaf-9568-04b8c85b5a1b/air-vapormax-2019-older-shoe-R53c2K.jpg",
+    "isScrapped": true,
+    "description": "Dark Smoke Grey/Black/Multi-Colour/Silver"
+  },
+  {
+    "name": "Nike Team Hustle Quick 2",
+    "price": 578000,
+    "stock": 17,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/cjtke3sbnvn7oerdqvta/team-hustle-quick-2-older-shoe-JMKXzW.jpg",
+    "isScrapped": true,
+    "description": "Black/White/Blue Hero/Volt"
+  },
+  {
+    "name": "Nike Air Max 270 React ENG",
+    "price": 1999000,
+    "stock": 10,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/f2006254-29af-4238-9fbe-a698f0e371fa/air-max-270-react-eng-older-shoe-lSR69G.jpg",
+    "isScrapped": true,
+    "description": "Opti Yellow/Anthracite/Watermelon/White"
+  },
+  {
+    "name": "Nike Kawa Baby Dragon",
+    "price": 349000,
+    "stock": 4,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/z9fwleeqi0jv3hsnjg2i/kawa-dragon-younger-older-slide-djl0mX.jpg",
+    "isScrapped": true,
+    "description": "Blue Hero/Aurora/Black"
+  },
+  {
+    "name": "Nike Air Max 720",
+    "price": 2279000,
+    "stock": 5,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-7aaf69b7-a8be-4804-aaf2-2cbfcd07dce5/air-max-720-oider-shoe-1cfhv4.jpg",
+    "isScrapped": true,
+    "description": "Dark Smoke Grey/Black/Metallic Silver/Black"
+  },
+  {
+    "name": "Nike Jr. Mercurial Superfly 7 Academy MG",
+    "price": 798000,
+    "stock": 9,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/euzhw4kyajftlbqxngab/jr-mercurial-superfly-7-academy-mg-multi-ground-football-boot-SptG91.jpg",
+    "isScrapped": true,
+    "description": "Blue Hero/Obsidian/White"
+  },
+  {
+    "name": "Nike Air Max 97",
+    "price": 1698000,
+    "stock": 1,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/xb4xs6pc7wv7ozetgvew/air-max-97-older-shoe-vJc4r9.jpg",
+    "isScrapped": true,
+    "description": "White/Nightshade/Blue Fury/Spirit Teal"
+  },
+  {
+    "name": "Nike Jr. Mercurial Vapor 13 Club Neymar Jr. TF",
+    "price": 558000,
+    "stock": 10,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/unoeitcyfrxb9dxioe09/jr-mercurial-vapor-13-club-neymar-jr-tf-artificial-football-shoe-CxBRmZ.jpg",
+    "isScrapped": true,
+    "description": "Chrome/Red Orbit/Platinum Tint/Black"
+  },
+  {
+    "name": "Nike Air Max 270 React",
+    "price": 1799000,
+    "stock": 17,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-94bc825e-bc0e-405d-a6be-2994d9ff8ae3/air-max-270-react-older-shoe-lP7NwB.jpg",
+    "isScrapped": true,
+    "description": "Summit White/Platinum Tint/White/Multi-Colour"
+  },
+  {
+    "name": "Nike Air Force 1 NBA Low",
+    "price": 818000,
+    "stock": 22,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-eda28b96-a1f0-423d-a41a-38eebf2fa342/air-force-1-nba-low-older-shoe-4n97BX.jpg",
+    "isScrapped": true,
+    "description": "University Red/Black/White/White"
+  },
+  {
+    "name": "Nike Jr. Mercurial Vapor 13 Club MG",
+    "price": 518000,
+    "stock": 7,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/coq0k4eeqnokadxygilj/jr-mercurial-vapor-13-club-mg-younger-older-multi-ground-football-boot-qkBjv7.jpg",
+    "isScrapped": true,
+    "description": "Blue Hero/Obsidian/White"
+  },
+  {
+    "name": "Nike Air Max 270",
+    "price": 1398000,
+    "stock": 10,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/hgru1egwftqiilpkx5cs/air-max-270-older-shoe-Gf01WT.jpg",
+    "isScrapped": true,
+    "description": "White/Nightshade/Spirit Teal"
+  },
+  {
+    "name": "LeBron 16",
+    "price": 1698000,
+    "stock": 15,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/tkyqbggiiqixicxp2s8i/lebron-16-older-basketball-shoe-MKxtGP.jpg",
+    "isScrapped": true,
+    "description": "Black/University Red/White"
+  },
+  {
+    "name": "Nike Viale",
+    "price": 638000,
+    "stock": 3,
+    "category": "soccer",
+    "image_url": "https://c.static-nike.com/a/images/t_default/obzcjdbkcl8dihnbqbgj/viale-older-shoe-wnsxNZ.jpg",
+    "isScrapped": true,
+    "description": "Black/White/Rush Pink"
+  },
+  {
+    "name": "Kyrie 5",
+    "price": 1138000,
+    "stock": 13,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/bl82r05yqjtr40d2x1nl/kyrie-5-older-shoe-nkTCq5.jpg",
+    "isScrapped": true,
+    "description": "Black/White/University Red/Black"
+  },
+  {
+    "name": "Air Jordan 3 Retro SE",
+    "price": 1799000,
+    "stock": 17,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/132eebbe-debd-4689-90d9-91fd7059db8c/air-jordan-3-retro-se-older-shoe-KmL9SF.jpg",
+    "isScrapped": true,
+    "description": "Fire Red/Cement Grey/Black/Fire Red"
+  },
+  {
+    "name": "Nike Future Speed 2",
+    "price": 878000,
+    "stock": 9,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/rdc805srteodla7fv6pk/future-speed-2-older-running-shoe-JjS80n.jpg",
+    "isScrapped": true,
+    "description": "Electric Green/Barely Volt/Black"
+  },
+  {
+    "name": "Nike Air Force 1 LV8 2",
+    "price": 818000,
+    "stock": 14,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/aexvu91s1nujwzg7pacw/air-force-1-lv8-2-older-shoe-hr9PTN.jpg",
+    "isScrapped": true,
+    "description": "Black/Dark Grey/Total Orange/Wolf Grey"
+  },
+  {
+    "name": "Air Jordan 13 Retro Low",
+    "price": 1599000,
+    "stock": 29,
+    "category": "soccer",
+    "image_url": "https://c.static-nike.com/a/images/t_default/inrqf2n3pjioyxovbq6w/air-jordan-13-retro-low-older-shoe-8nm0W4.jpg",
+    "isScrapped": true,
+    "description": "White/Pure Platinum/Metallic Silver/Metallic Silver"
+  },
+  {
+    "name": "Nike Jr. Phantom Venom Academy IC",
+    "price": 718000,
+    "stock": 19,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/ajjk47jbqomyo5hihref/jr-phantom-venom-academy-ic-older-indoor-court-football-boot-mBKJ15.jpg",
+    "isScrapped": true,
+    "description": "Bright Mango/Orange Pulse/Anthracite/White"
   }
 ]
