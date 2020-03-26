@@ -19,10 +19,11 @@ class BannerController{
                 console.log(err);
                 res.status(500).json(err);
             }
-
         }
         else{
-            res.status(400).json({message:'No Image'});
+            let name=req.body.name
+            let new_banner=await Banner.create({name});
+            res.status(201).json(new_banner);
         }
     }
 

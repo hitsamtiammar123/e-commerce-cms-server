@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Nike Air Streak Lite",
+    "price": 1649000,
+    "stock": 11,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-b85d3e98-9916-4b2c-a73a-4b508d96f558/air-streak-lite-shoe-7JMz8b.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Zoom Gravity",
+    "price": 1279000,
+    "stock": 6,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/ae2b29b4-07ac-4b1e-beaa-8eedf8fd322d/zoom-gravity-running-shoe-BVCKhW.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Renew Fusion",
+    "price": 1199000,
+    "stock": 23,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-8addd554-b21b-4550-9a02-450be21321ad/renew-fusion-training-shoe-MLRCBB.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 270 React ENG",
+    "price": 2519000,
+    "stock": 10,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/266f86ac-18c9-4398-830f-3a6ee1efd4ac/air-max-270-react-eng-shoe-4vLD7x.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike SB Blazer Low GT",
+    "price": 1199000,
+    "stock": 1,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-cacc98f1-517c-4e8c-87d9-88e9dbb1de0e/sb-blazer-low-gt-skate-shoe-zbjr5n.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Fly.By Mid",
+    "price": 799000,
+    "stock": 27,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-b644a47f-d22a-4318-8601-a291b6c7beaf/flyby-mid-basketball-shoe-Q2Gp58.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Joyride Dual Run",
+    "price": 1979000,
+    "stock": 28,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/7eb5342e-73a2-4769-8f94-ff7b536657e5/joyride-dual-run-running-shoe-l272g9.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Zoom Vomero 14",
+    "price": 2099000,
+    "stock": 4,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/f83062ce-d642-40a7-a849-dc8ee3d97337/air-zoom-vomero-14-running-shoe-WtvZ3q.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 270 React",
+    "price": 2279000,
+    "stock": 5,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/maaracg267hrfrba9tse/air-max-270-react-shoe-vtRNln.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Renew Run Special Edition",
+    "price": 1279000,
+    "stock": 3,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-fa3376d8-fc23-4763-b927-afaa5ceec184/renew-run-special-edition-running-shoe-zg9tmD.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max Triax",
+    "price": 1979000,
+    "stock": 6,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-7564d4be-a210-4410-a563-0c126adc4555/air-max-triax-shoe-7GbtPT.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 270 React",
+    "price": 2279000,
+    "stock": 16,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/762dcab3-677c-4f86-bcf2-945afdba170d/air-max-270-react-shoe-V2G8wn.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Renew Run",
+    "price": 1199000,
+    "stock": 12,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-59babacb-2bda-4bd7-957d-6007539b21e2/renew-run-running-shoe-RhdGb5.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max Impact",
+    "price": 1279000,
+    "stock": 4,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-ecd60be4-6781-480a-b34b-aaf1cd845037/air-max-impact-basketball-shoe-98c6zd.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Air Jordan 1 Low SE",
+    "price": 1649000,
+    "stock": 1,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/77048e7a-bf10-41b6-be94-5c400aad16b7/air-jordan-1-low-se-shoe-XvqDsj.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Force 1 Type-2",
+    "price": 2099000,
+    "stock": 13,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-fcc0e24b-3f41-40cc-97c7-a58ccea9e5e3/air-force-1-type-2-shoe-b7ZKzv.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Tiempo Legend 8 Club TF",
+    "price": 699000,
+    "stock": 4,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/264d1a32-6945-40d8-b1cd-b2f308642a5a/tiempo-legend-8-club-tf-artificial-football-shoe-jQPb3P.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "NikeCourt Air Max Wildcard",
+    "price": 1279000,
+    "stock": 9,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/6e60d68e-7aad-4a83-81f9-763ad9d1dbfd/nikecourt-air-max-wildcard-tennis-shoe-KX5nxT.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike SB Zoom Stefan Janoski Canvas RM",
+    "price": 1199000,
+    "stock": 19,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-11789766-7d39-4f11-9dd5-91b767ea393b/sb-zoom-stefan-janoski-canvas-rm-skate-shoe-Q9bXgF.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 95 Premium",
+    "price": 2519000,
+    "stock": 26,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/cf67c145-d362-40f6-9921-034d1b347d4f/air-max-95-shoe-qnvlb1.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 90",
+    "price": 1799000,
+    "stock": 9,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-9f797378-365b-4755-ad09-9362eb0a7cef/air-max-90-shoe-mNsXT4.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "NikeCourt Lite 2",
+    "price": 899000,
+    "stock": 15,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/mecxgqayb5nhbt7vriha/nikecourt-lite-2-hard-court-tennis-shoe-RzbD9h.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Tiempo Legend 8 Club MG",
+    "price": 699000,
+    "stock": 20,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/d0da382e-b9e2-4323-b933-3b5e36fae09b/tiempo-legend-8-club-mg-multi-ground-football-boot-zxlkGn.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Owaysis",
+    "price": 749000,
+    "stock": 4,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-6aa87691-aa6e-4beb-8469-d8f79d6f268b/owaysis-sandal-R2DMWL.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Free RN 5.0 2020",
+    "price": 1429000,
+    "stock": 2,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/9e557714-bc24-4b61-860d-468dd63ab8a5/free-rn-5-2020-running-shoe-3RTlkt.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike SB Adversary Premium",
+    "price": 1279000,
+    "stock": 0,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-a5f71898-31b9-4c7e-8597-be115c331d11/sb-adversary-skate-shoe-DtLf2f.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Precision 4",
+    "price": 899000,
+    "stock": 29,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/e75aff37-2204-459f-bacb-9ccec1f4ec56/precision-4-basketball-shoe-JVhRs8.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Mercurial Vapor 13 Club TF",
+    "price": 799000,
+    "stock": 23,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/kfoubfzpy6bl7epnxhqo/mercurial-vapor-13-club-tf-artificial-football-shoe-nJhdM7.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "NikeCourt Air Max Vapor Wing MS",
+    "price": 1099000,
+    "stock": 28,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/i1-9d65b72e-bd3d-4766-b305-d65a7e51c6d4/nikecourt-air-max-vapor-wing-ms-multi-surface-tennis-shoe-tWmZQ2.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Vapor Edge Pro 360 By You",
+    "price": 2099000,
+    "stock": 28,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/9c8bcaf3-0ce5-4e0b-8e32-3045a49f02ad/custom-nike-vapor-edge-pro-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Force 1 High By You",
+    "price": 1799000,
+    "stock": 17,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/0b8e06df-6dcd-4a4e-bcba-24dbba858764/custom-nike-air-force-1-high-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 270 React",
+    "price": 1368000,
+    "stock": 23,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/jd1w0o0kpgzkudbrzxef/air-max-270-react-shoe-8m45H9.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Mercurial Vapor 13 Club IC",
+    "price": 799000,
+    "stock": 20,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/ddbd36b4-ae35-4e8a-a287-8353ae7be144/mercurial-vapor-13-club-ic-indoor-court-football-shoe-R2j3D1.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max Tailwind 99",
+    "price": 1848000,
+    "stock": 17,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/f20bb36a-d5aa-4b58-a344-4a3c254de458/air-max-tailwind-99-shoe-995B05.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Mercurial Superfly 7 Club TF",
+    "price": 758000,
+    "stock": 11,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/nukq2qgnyvvjcboh7fd8/mercurial-superfly-7-club-tf-artificial-football-shoe-GVrb1G.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "PG 4 By You",
+    "price": 1979000,
+    "stock": 0,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/e586f4e4-d08a-4b65-a50e-d4ec31325a92/custom-pg4-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 200 By You",
+    "price": 2099000,
+    "stock": 19,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/yrxpfnmmsbrxzhgrx2os/custom-nike-air-max-200-by-you-shoe.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Kyrie 6 By You",
+    "price": 2279000,
+    "stock": 29,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/5982b625-f6db-4ca5-85e8-fd147802165b/custom-kyrie-6-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Epic Phantom React A.I.R. Cody Hudson",
+    "price": 1668000,
+    "stock": 26,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/bai4flsp7sonxnj2yisg/epic-phantom-react-air-cody-hudson-running-shoe-ctX7Zl.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Zoom Pegasus Turbo 2 Shield Low By You",
+    "price": 2909000,
+    "stock": 12,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/f413c0d4-a808-4d02-845d-a111ff4731d0/custom-nike-air-zoom-pegasus-36-shield-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike x Stranger Things Cortez (4th of July)",
+    "price": 1799000,
+    "stock": 25,
+    "category": "soccer",
+    "image_url": "https://static.nike.com/a/images/t_default/vwvl3r41fidt8gftvz1x/stranger-things-cortez-shoe-gM8j2T.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Joyride CC",
+    "price": 1468000,
+    "stock": 5,
+    "category": "gym",
+    "image_url": "https://static.nike.com/a/images/t_default/uq3vm9uyqoa35rd5hq3t/joyride-cc-shoe-Qbt71m.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Blazer Low",
+    "price": 898000,
+    "stock": 3,
+    "category": "lifestyle",
+    "image_url": "https://c.static-nike.com/a/images/t_default/rmkzrm6x7yas9skq80xu/blazer-low-shoe-lXZ910.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 36 By You",
+    "price": 2279000,
+    "stock": 15,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/65a0d896-d50f-41d9-9824-ae9684873b67/custom-nike-air-zoom-pegasus-36-premium-shoe-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 720 By You",
+    "price": 2909000,
+    "stock": 16,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/e7rqfaixmmn5ip3morwc/custom-nike-air-max-720-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 90",
+    "price": 1799000,
+    "stock": 2,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/a91af7f3-bff5-4063-b802-50da7f52eeb8/air-max-90-shoe-r5WqV3.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Mercurial Superfly 7 Elite SE FG",
+    "price": 4399000,
+    "stock": 17,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/f391fed5-cc5f-4f95-b6e2-1a7c08671657/mercurial-superfly-7-elite-se-fg-football-boot-drQVks.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Air Max 270 React ENG",
+    "price": 2519000,
+    "stock": 18,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/44913ad2-505b-46f9-b0f8-436e0a8cfb1b/air-max-270-react-eng-shoe-7V4Lw2.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike Blazer Mid By You",
+    "price": 1699000,
+    "stock": 10,
+    "category": "lifestyle",
+    "image_url": "https://static.nike.com/a/images/t_default/kulkcb2djliggr4vepyh/custom-nike-blazer-mid-by-you.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  },
+  {
+    "name": "Nike ISPA Joyride Envelope",
+    "price": 2328000,
+    "stock": 20,
+    "category": "basketball",
+    "image_url": "https://static.nike.com/a/images/t_default/a8a51585-82fd-495b-8a5f-13fcef1391ac/ispa-joyride-envelope-shoe-KNT42x.jpg",
+    "isScrapped": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores provident quidem, maxime recusandae voluptate incidunt quo cumque harum? Dolorum, enim corrupti quod eum fuga officia hic commodi nam ducimus!"
+  }
+]
